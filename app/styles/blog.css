@@ -18,7 +18,7 @@
 .cardContainer > a {
     display: inline-block;
     padding: 0.8rem 2rem;
-    background-color: #ff5436;
+    background-color: #0070b1;
     color: #fff;
     border-radius: 5px;
     font-size: 1.4rem;
@@ -45,7 +45,7 @@
 }
 
 .paginationWrapper > a {
-    color: #ff5436;
+    color: #0070b1;
     padding: 0 1rem;
 }
 

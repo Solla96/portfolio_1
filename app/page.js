@@ -37,10 +37,10 @@ const Index = () => {
       <span>JavaScript / 3 months</span></div>
       <div><img src="/images/react.svg"alt="react"/>
       <span>React / 2 months</span></div>
-      <div><img src="/images/gatsby.svg" alt="gatsby"/>
-      <span>Gatsby / 1 months</span></div>
-      <div><img src="/images/next.svg" alt="next"/>
-      <span>Next.JS / 2 months</span></div>
+      <div><img src="/images/icons8-html.svg" alt="html" />
+      <span>HTML / 3 months</span><p><a  href="https://icons8.com/icon/20909/html">HTML</a> icon by <a href="https://icons8.com">Icons8</a></p></div>
+      <div><img src="/images/icons8-css.svg" alt="css"/>
+      <span>CSS / 3 months</span><p><a  href="https://icons8.com/icon/21278/css3">CSS</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a></p></div>
       </div>
     </div>
     <div className='ctaButton'>

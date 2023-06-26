@@ -1,5 +1,5 @@
 .wrapper {
-    padding: 7rem 0 10rem;   
+    padding: 20px 20px;   
 }
 
 input[type=text], input[type=email], textarea {
@@ -24,7 +24,7 @@ button {
     padding: 0.5rem 2rem;
     font-size: 1.6rem;
     color: #fff;
-    background-color: #ff5436;
+    background-color: #0070b1;
     transition-duration: 0.4s;
     border-radius: 5px;
 }

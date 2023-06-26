@@ -6,6 +6,11 @@ import matter from  "gray-matter"
 // import Pagination from "../components/pagination"
 // import { getAllBlogs, blogsPerPage } from "../utils/mdQueries"
 
+export const metadata = {
+    title: "Blog",
+    description: "This page is for my blog.",
+}
+
 async function getAllBlogs() {
     const files = fs.readdirSync(path.join("data"))
     const blogs = files.map((fileName) => {
